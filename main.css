@@ -1,0 +1,118 @@
+body {
+   font-family: "Dosis", serif;
+   background-color: rgb(241, 241, 241) !important;
+}
+
+
+.navbar {
+   background-color: rgb(255, 255, 255);
+}
+
+#cabecalho .nav .nav-item .nav-link.active  {
+   background-color: #000000;
+   color: rgb(138, 50, 50);
+   color: #F2F2F2 !important;
+}
+
+.nav .nav-item .nav-link.active:hover {
+   color: #A6A6A6;
+}
+
+#cabecalho .nav .nav-link, 
+.navbar-brand, 
+.navbar-brand:hover, .nav-cardapio .nav-link.active:hover {
+   color: rgb(5, 5, 5) !important;
+}
+
+
+
+.nav .nav-item  .nav-link:hover {
+   color: rgb(12, 11,  11)!;
+}
+
+.navbar-brand {
+   font-family: "Caveat", serif;
+   color: rgb(14, 13, 13) !important;
+}
+
+.navbar-toggler {
+   background-color: #ffffff !important;
+}
+
+.section-tittle {
+   font-family: "Caveat", serif;
+}
+
+.section-tittle span {
+   color: #070707;
+}
+
+ #cardapio {
+   background-color: rgb(241, 241, 241) ;
+   padding: 50px !important;
+}
+
+.section-title {
+   font-family: "Caveat", serif;
+}
+
+
+
+.text-colored {
+   color: #000000 !important;
+}
+
+.nav-cardapio .nav-link.active,
+
+#contato button  {
+   background-color:#666b6b !important ;
+   color: white !important;
+}
+
+.nav-cardapio .nav-link:hover {
+   color: #020202!important;   
+}
+
+
+.social-links li {
+   list-style: none;
+   display: inline;
+   
+}
+
+#card {
+   background-color: #d1d1d1;
+   border-radius: 50px !important;
+   padding: 20px !important;
+}
+
+
+
+#sobre{
+   
+   border-radius: 50px;
+   background-color: rgb(235, 233, 233);
+   
+}
+
+#whatsapp-icon {
+   position: fixed;
+   bottom: 20px; /* Distância do fundo da tela */
+   right: 20px;  /* Distância da lateral direita */
+   width: 50px;  /* Tamanho do ícone */
+   height: 50px; /* Tamanho do ícone */
+   z-index: 1000; /* Garante que o ícone fique acima de outros elementos */
+   cursor: pointer; /* Muda o cursor para indicar que é clicável */
+}
+
+
+#trabalho {
+   padding: 40px !important;
+}
+
+.social-links a {
+   text-decoration: none;
+}
+
+
+
